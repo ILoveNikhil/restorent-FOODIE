@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ILoveNikhil/restorent-deploye-gh-page/static/css/main.42300d1c.css",
+    "main.js": "/ILoveNikhil/restorent-deploye-gh-page/static/js/main.64c26e5a.js",
+    "static/media/home-banner-image.png": "/ILoveNikhil/restorent-deploye-gh-page/static/media/home-banner-image.a41849b23e5c36d66717.png",
+    "static/media/about-background-image.png": "/ILoveNikhil/restorent-deploye-gh-page/static/media/about-background-image.d0e45280dd69dec26ee6.png",
+    "static/media/home-banner-background.png": "/ILoveNikhil/restorent-deploye-gh-page/static/media/home-banner-background.585600da7ff85661555e.png",
+    "static/media/Logo.svg": "/ILoveNikhil/restorent-deploye-gh-page/static/media/Logo.e04f4319ea0059a833b1ca8d03810b60.svg",
+    "index.html": "/ILoveNikhil/restorent-deploye-gh-page/index.html",
+    "main.42300d1c.css.map": "/ILoveNikhil/restorent-deploye-gh-page/static/css/main.42300d1c.css.map",
+    "main.64c26e5a.js.map": "/ILoveNikhil/restorent-deploye-gh-page/static/js/main.64c26e5a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42300d1c.css",
+    "static/js/main.64c26e5a.js"
+  ]
+}
